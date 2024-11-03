@@ -1,0 +1,24 @@
+a {
+    font-family: sans-serif;
+}
+
+#Recipes{
+    background-color: black;
+    color: white;
+}
+
+#Lasagna {
+    color: rgb(110, 110, 38);
+    font-weight: bold;
+}
+
+#Pasta {
+    color: red;
+    font-size: large;
+}
+
+#Chicken {
+    color: orange;
+    font-weight: bold;
+    font-size: larger;
+}

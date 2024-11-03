@@ -1,0 +1,18 @@
+li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul li {
+    color: orange;
+}
+
+ol li {
+    color: red;
+}
+
+.header {
+    font-weight: bold;
+    background-color: black;
+    color: whitesmoke;
+
+}
